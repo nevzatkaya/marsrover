@@ -109,6 +109,7 @@ namespace MarsRover.Bussiness
             }
         }
 
+
         private void SetCoordinateX(Position position, int unit)
         {            
             position.CoordinateX += unit;
